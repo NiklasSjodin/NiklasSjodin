@@ -1,7 +1,7 @@
 ![reversal](https://capsule-render.vercel.app/api?type=rect&text=Hello&fontAlign=30&fontSize=30&desc=%20Welcome&descAlign=60&descAlignY=50&theme=radical)
 ## Om Mig
 
-Mitt namn är Niklas Sjödin och jag är en student vid Chas Academy som studerar till fullstack-utvecklare med fokus på .NET med examen 2025.
+Jag är en student vid Chas Academy som studerar till fullstack-utvecklare med fokus på .NET med examen 2025.
 
 ## Tekniska Kompetenser
 
