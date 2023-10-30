@@ -12,12 +12,12 @@ classes_studied:
 ]
 education fields:
 [
-  C#,
+ "C#,
   .NET,
   SQL server,
   Visual Studio,
   Visual Studi Code,
-  Git
+  Git"
 ]
 previous_jobs: Salesperson and department manager within retail
 hobbies: ["Football", "Training", "Family"] 
@@ -30,8 +30,8 @@ My goal is to become a competent full-stack .NET developer and create useful and
 ## Contacts
 
 
-<a href="https://www.linkedin.com/in/niklas-sj%C3%B6din-626438b9/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://mail.google.com/mail/u/2/#inbox" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/niklas-sj%C3%B6din-626438b9/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="" height="30" width="40" /></a>
+<a href="https://mail.google.com/mail/u/2/#inbox" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-plain.svg" alt="" height="30" width="40" /></a>
 
   
 
