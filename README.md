@@ -25,9 +25,9 @@ previous_jobs: Salesperson and department manager within retail
 hobbies: ["Football", "Training", "Family"] 
 ```
 
-## Goals
+## Ambition
 
-My goal is to become a competent full-stack .NET developer and create useful and efficient web applications. I aspire to use my education to achieve this goal and make a positive impact in the industry.
+My ambition is to become a competent full-stack .NET developer and create useful and efficient web applications. I aspire to use my education to achieve this goal and make a positive impact in the industry.
 
 ## Contacts
 
@@ -36,4 +36,4 @@ My goal is to become a competent full-stack .NET developer and create useful and
 
 Let's connect, share ideas and create together! 💻🚀
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NiklasSjodin&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiklasSjodin&layout=compact)
+![Niklas's GitHub stats](https://github-readme-stats.vercel.app/api?username=NiklasSjodin&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiklasSjodin&layout=compact)
