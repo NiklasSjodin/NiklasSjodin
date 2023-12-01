@@ -5,10 +5,11 @@
 name: Niklas Sjödin
 located_in: Stockholm, Sweden
 current_job: Student at Chas Academy
-currently_learning: "Programmering med C# & .NET"
+currently_learning: "Backendutveckling & Databaser"
 classes_studied:
 [
-  "IT Tech & Operations"
+  "IT Tech & Operations",
+  "Programmering med C# & .NET"
 ]
 education fields:
 [
@@ -16,7 +17,7 @@ education fields:
   .NET,
   SQL server,
   Visual Studio,
-  Visual Studi Code,
+  Visual Studio Code,
   Git"
 ]
 degree: degree in 2025
