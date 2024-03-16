@@ -19,7 +19,10 @@ education fields:
   SQL server,
   Visual Studio,
   Visual Studio Code,
-  Git"
+  Git,
+  HTML,
+  CSS,
+  Figma"
 ]
 degree: degree in 2025
 previous_jobs: Salesperson and department manager within retail
