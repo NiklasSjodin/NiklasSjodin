@@ -5,12 +5,13 @@
 name: Niklas Sjödin
 located_in: Stockholm, Sweden
 current_job: Student at Chas Academy
-currently_learning: "Frontendutveckling & UX"
+currently_learning: "Projektmetodik och agila metoder"
 classes_studied:
 [
   "IT Tech & Operations",
   "Programmering med C# & .NET",
-  "Backendutveckling & Databaser"
+  "Backendutveckling & Databaser",
+  "Frontendutveckling & UX"
 ]
 education fields:
 [
@@ -22,6 +23,7 @@ education fields:
   Git,
   HTML,
   CSS,
+  React,
   Figma"
 ]
 degree: degree in 2025
