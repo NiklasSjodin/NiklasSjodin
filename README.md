@@ -23,6 +23,7 @@ education fields:
   Git,
   HTML,
   CSS,
+  JavaScript,
   React,
   Figma"
 ]
