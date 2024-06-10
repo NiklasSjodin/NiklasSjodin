@@ -11,6 +11,8 @@ classes_studied:
   "IT Tech & Operations",
   "Programmering med C# & .NET",
   "Backendutveckling & Databaser",
+  "Programmeringsmetodik & Testning",
+  "Webbteknik",
   "Frontendutveckling & UX"
 ]
 education fields:
