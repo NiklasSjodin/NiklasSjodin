@@ -5,9 +5,10 @@
 name: Niklas Sjödin
 located_in: Stockholm, Sweden
 current_job: Student at Chas Academy
-currently_learning: "Avancerad fullstackutveckling"
+currently_learning: "LIA"
 classes_studied:
 [
+  "Avancerad fullstackutveckling",
   "IT Tech & Operations",
   "Programmering med C# & .NET",
   "Backendutveckling & Databaser",
@@ -20,7 +21,7 @@ education fields:
 [
  "C#,
   .NET,
-  SQL server,
+  SQL,
   Visual Studio,
   Visual Studio Code,
   Git,
@@ -28,6 +29,8 @@ education fields:
   CSS,
   JavaScript,
   React,
+  Azure,
+  Java,
   Figma"
 ]
 degree: degree in 2025
