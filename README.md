@@ -4,10 +4,11 @@
 ```yaml
 name: Niklas Sjödin
 located_in: Stockholm, Sweden
-current_job: Student at Chas Academy
-currently_learning: "LIA"
+current_job: Developer at Coop Sverige
+currently_learning: "More about API integrations"
 classes_studied:
 [
+  "LIA",
   "Avancerad fullstackutveckling",
   "IT Tech & Operations",
   "Programmering med C# & .NET",
@@ -28,14 +29,17 @@ education fields:
   HTML,
   CSS,
   JavaScript,
+  TypeScript,
   React,
   Azure,
   Java,
-  Figma"
+  Figma",
+  Jira,
+  Miro
 ]
-degree: degree in 2025
+Degree: June 2025
 previous_jobs: Salesperson and department manager within retail
-hobbies: ["Football", "Training", "Family"] 
+hobbies: ["Football", "Icehockey", "Training", "Family"] 
 ```
 
 ## Ambition
