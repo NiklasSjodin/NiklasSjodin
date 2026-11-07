@@ -1,56 +1,73 @@
-[![MasterHead](https://c4.wallpaperflare.com/wallpaper/749/308/1001/anime-code-wallpaper-preview.jpg)](github.com/niklassjodin)
-## About ME
+<h1 align="center">Hi, I'm Niklas Sjödin</h1>
 
-```yaml
-name: Niklas Sjödin
-located_in: Stockholm, Sweden
-current_job: Developer at Coop Sverige
-currently_learning: "More about API integrations"
-classes_studied:
-[
-  "LIA",
-  "Avancerad fullstackutveckling",
-  "IT Tech & Operations",
-  "Programmering med C# & .NET",
-  "Backendutveckling & Databaser",
-  "Programmeringsmetodik & Testning",
-  "Webbteknik",
-  "Frontendutveckling & UX",
-  "Projektmetodik & Agila metoder"
-]
-education fields:
-[
- "C#,
-  .NET,
-  SQL,
-  Visual Studio,
-  Visual Studio Code,
-  Git,
-  HTML,
-  CSS,
-  JavaScript,
-  TypeScript,
-  React,
-  Azure,
-  Java,
-  Figma",
-  Jira,
-  Miro
-]
-Degree: June 2025
-previous_jobs: Salesperson and department manager within retail
-hobbies: ["Football", "Icehockey", "Training", "Family"] 
-```
+<h3 align="center">.NET Backend Developer | Microsoft Azure | System Integrations</h3>
 
-## Ambition
+<p align="center">
+  based in Stockholm, Sweden 🇸🇪
+</p>
 
-My ambition is to become a competent full-stack .NET developer and create useful and efficient web applications. I aspire to use my education to achieve this goal and make a positive impact in the industry.
+---
 
-## Contacts
+## About Me
 
+I'm a software engineer currently working at **Coop Sverige**, focusing on backend development and system integrations.
 
-<a href="https://www.linkedin.com/in/niklas-sj%C3%B6din-626438b9/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="" height="30" width="40" /></a>  
+I enjoy building scalable, maintainable and reliable solutions using modern .NET technologies and Microsoft Azure.
 
-Let's connect, share ideas and create together! 💻🚀
+I'm particularly interested in backend architecture, cloud development, API design and exploring how AI-assisted development can improve software engineering.
 
-![Niklas's GitHub stats](https://github-readme-stats.vercel.app/api?username=NiklasSjodin&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiklasSjodin&layout=compact)
+## Technical Skills
+
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,sql" />
+</p>
+
+**Backend & Cloud**
+<p>
+  <img src="https://skillicons.dev/icons?i=azure" />
+</p>
+
+**Tools & Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,postman" />
+</p>
+
+**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+</p>
+
+## Areas of Interest
+
+- Backend development & REST APIs
+- System integration & distributed systems
+- Microsoft Azure & cloud architecture
+- Clean Architecture, SOLID & design patterns
+- AI-assisted software development
+
+## Featured Projects
+
+*Selected projects demonstrating my technical interests and development experience.*
+
+<!-- Add your best repositories here -->
+
+## Currently Exploring
+
+- Advanced .NET development and architecture
+- Azure cloud services and distributed systems
+- AI-assisted development with Cursor and AI agents
+
+## Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/niklas-sj%C3%B6din-626438b9/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Always learning, building and improving.</i>
+</p>
