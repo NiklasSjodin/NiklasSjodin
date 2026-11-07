@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Niklas Sjödin</h1>
+<h1 align="center">Hi, I'm Niklas</h1>
 
 <h3 align="center">.NET Backend Developer | Microsoft Azure | System Integrations</h3>
 
